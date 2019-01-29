@@ -1,0 +1,24 @@
+{
+  "name": "assignment11_friend-finder",
+  "version": "1.0.0",
+  "description": "A Node and Express Dating app example for bootcamp",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDBValada/assignment11_Friend-Finder.git"
+  },
+  "author": "Michael Bieniewicz-Valada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MDBValada/assignment11_Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/MDBValada/assignment11_Friend-Finder#readme"
+}
