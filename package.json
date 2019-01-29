@@ -4,7 +4,8 @@
   "description": "A Node and Express Dating app example for bootcamp",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
   },
   "devDependencies": {},
   "scripts": {
